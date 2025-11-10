@@ -1,0 +1,5 @@
+id,first_name,last_name,email,password,subject,role
+1,admin,admin,admin@admin.com,admin,,admin
+2,Mini,Mol,mini@gmail.com,mini,maths,teacher
+3,Raju,Pillai,raju@gmail.com,raju,english,teacher
+4,Biju,Mon,biju@gmail.com,biju,malayalam,teacher

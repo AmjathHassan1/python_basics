@@ -1,0 +1,44 @@
+Python Module - End Project
+
+Build a Python-based Student Management System using the concepts of Python programming covered
+in your syllabus. This system should allow users (admin/teacher) to add, view, update, and delete student records.
+
+1. Login System (3 marks)
+Predefined login credentials (username/password).
+Basic password checking.
+
+2. Add New Student Record (3 marks)
+Input fields: Name, Roll Number, Age, Department, Marks.
+
+3. View Student Record (3 marks)
+Display all student data in a user-friendly format.
+
+4. Update Student Details (3 marks)
+Allow editing any field based on Roll Number.
+
+5 .Delete Student Record (3 marks)
+Remove a student based on Roll Number.
+
+6. Exit Option (1 mark) : Clean exit with proper messages.
+
+7. Use File Handling to store student data persistently (3 marks) : Read from and write to a file (students.txt or .csv).
+
+8. Search student by name or department (1 mark)
+
+9. Auto-generate student ID (1 mark)
+
+10. View top-performing students (using marks)(1 mark)
+
+11. Use modules like datetime to show time of entry(1 mark)
+
+12. Create a custom module for repeated functionalities (e.g., validation) (1 mark)
+
+13. Handle invalid inputs using exception handling (1 mark)
+
+###################################################################################################################
+
+
+RUN main.py
+cred : username: mini@gmail.com , password : mini
+
+give students.csv, users.csv path on constance.py

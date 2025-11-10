@@ -1,0 +1,2 @@
+USER_CSV_LOCATION=r"C:\Users\Amjath Hassan\Entri\Live Notes\Python Basics\Assignments\Python Capstone Project\database\users.csv"
+STUDENT_CSV_LOCATION=r"C:\Users\Amjath Hassan\Entri\Live Notes\Python Basics\Assignments\Python Capstone Project\database\students.csv"

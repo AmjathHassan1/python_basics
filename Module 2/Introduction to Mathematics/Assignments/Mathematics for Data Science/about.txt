@@ -8,6 +8,7 @@ dataset from the link given below. The dataset contains 1599 samples of wine, wi
 such as acidity, alcohol content, pH, residual sugar, and others, alongside the target variable,
 wine quality.
 
+
 1. Load the dataset and handle any missing data by replacing null values with the mean
 value of the respective column. (Score 2)
 

@@ -7,7 +7,7 @@ import seaborn as sns
 
 # 1.load iris dataset from seaborn
 
-df=pd.read_csv('iris.csv')
+df=pd.read_csv('Iris.csv')
 print(df)
 print(df.columns)
 # 2.consider sepal_length
